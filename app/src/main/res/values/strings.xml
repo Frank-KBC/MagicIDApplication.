@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Magic ID Application</string>
+    <string name="text_view">TextView</string>
+    <string name="submit">Submit</string>
+    <string name="please_enter_your_id_number">Please, enter your ID Number!</string>
+</resources>
